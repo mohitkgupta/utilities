@@ -15,11 +15,11 @@ import org.apache.commons.logging.LogFactory;
 import org.apache.xpath.XPathAPI;
 import org.apache.xpath.objects.XNodeSet;
 import org.apache.xpath.objects.XObject;
-import org.vedantatree.exceptions.ErrorCodes;
-import org.vedantatree.exceptions.XException;
-import org.vedantatree.types.Type;
-import org.vedantatree.types.ValueObject;
 import org.vedantatree.utils.Utilities;
+import org.vedantatree.utils.exceptions.ErrorCodes;
+import org.vedantatree.utils.exceptions.XException;
+import org.vedantatree.utils.types.Type;
+import org.vedantatree.utils.types.ValueObject;
 import org.w3c.dom.Document;
 
 

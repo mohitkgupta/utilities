@@ -15,9 +15,9 @@ import java.lang.reflect.Method;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.vedantatree.exceptions.ApplicationException;
-import org.vedantatree.exceptions.IErrorCodes;
-import org.vedantatree.exceptions.SystemException;
+import org.vedantatree.utils.exceptions.ApplicationException;
+import org.vedantatree.utils.exceptions.IErrorCodes;
+import org.vedantatree.utils.exceptions.SystemException;
 
 
 /**

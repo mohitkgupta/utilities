@@ -5,8 +5,8 @@ import java.util.Comparator;
 import org.apache.commons.beanutils.PropertyUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.vedantatree.exceptions.IErrorCodes;
-import org.vedantatree.exceptions.SystemException;
+import org.vedantatree.utils.exceptions.IErrorCodes;
+import org.vedantatree.utils.exceptions.SystemException;
 
 
 public class PropertyComparator implements Comparator

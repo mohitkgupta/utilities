@@ -20,7 +20,7 @@ import java.util.StringTokenizer;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.vedantatree.exceptions.server.ServerBusinessException;
+import org.vedantatree.utils.exceptions.server.ServerBusinessException;
 
 
 /**
