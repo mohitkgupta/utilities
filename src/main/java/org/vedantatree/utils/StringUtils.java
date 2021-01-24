@@ -153,7 +153,6 @@ public final class StringUtils
 	/**
 	 * toGenericString(Object) is a general toString method,
 	 * 
-	 * @author saundaraya gupta
 	 * @param obj is the object for which toString method is called
 	 * @return String toString representation
 	 */

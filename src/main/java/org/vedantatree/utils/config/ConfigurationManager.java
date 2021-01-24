@@ -287,6 +287,7 @@ public class ConfigurationManager
 	{
 		InputStream is = null;
 		logMessage( "servletContext[" + servletContext + "]", null, DEBUG );
+
 		if( servletContext != null )
 		{
 			is = servletContext.getResourceAsStream( configFileName );
